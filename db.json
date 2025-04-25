@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": "d037",
+      "name": "Kawasaki",
+      "category": "Bike",
+      "StartBid": "1000",
+      "HighBid": "100000"
+    },
+    {
+      "id": "1ca3",
+      "name": "Bajaj",
+      "category": "Bike",
+      "StartBid": "1000",
+      "HighBid": "2030"
+    },
+    {
+      "id": "bdbc",
+      "name": "TVS",
+      "category": "Bike",
+      "StartBid": "35000",
+      "HighBid": "40000"
+    }
+  ]
+}
